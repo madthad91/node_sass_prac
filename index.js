@@ -24,9 +24,3 @@ var exec = require('child_process').exec;
 exec('export me2="'+JSON.stringify(result)+ '"; echo $me2 > lezgo; echo $me2 ', function (error, stdout, stderr) {
     console.log(stdout);
 });
-
-module.exports = {
-  prac: function(){
-    console.log('hello world');
-  }
-}

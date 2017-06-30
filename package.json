@@ -1,8 +1,8 @@
 {
   "name": "node_sass_prac",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "",
-  "main": "index.js",
+  "main": "main.js",
   "dependencies": {
     "node-sass": "^4.5.3"
   },

@@ -9,3 +9,5 @@
 # Comments
 
 Best to just use the node-sass cli feature. Available in the node_modules/.bin or via npm script
+
+This repo can also be used as a library for testing libraries. The library pulls from main.js.
