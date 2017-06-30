@@ -1,0 +1,18 @@
+{
+  "name": "node_sass_prac",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "node-sass": "^4.5.3"
+  },
+  "devDependencies": {
+    "node-sass": "^4.5.3"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build-css": "node-sass --include-path public *.scss dist/*"
+  },
+  "author": "Thaddeus Madison Jr",
+  "license": "ISC"
+}
